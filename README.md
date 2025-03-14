@@ -4,7 +4,8 @@
 Business-driven data scientist with expertise in financial modeling, predictive analytics, and data-driven decision-making. Leveraging over a decade of experience in finance and real estate to apply advanced data science techniques for optimizing business outcomes. Certified in Applied Data Science from MIT Professional Education. Proficient in Python, SQL, Tableau, and Excel with hands-on experience in building machine learning models for real-world applications.
 
 #### Skills: 
-**Programming:** _Python (Pandas, NumPy, Scikit-Learn), SQL_
+**Programming:** Python (Pandas, NumPy, Scikit-Learn), SQL
+
 **Data Visualization:** Tableau, Power BI, Excel, Cognos, Matplotlib
 
 **Machine Learning & AI:** Regression, Classification, Clustering, Time Series Forecasting, Neural Networks, Predictive Modeling
@@ -16,9 +17,9 @@ Business-driven data scientist with expertise in financial modeling, predictive 
 
 ## Education
 - Certificate, Applied Data Science Program | MIT Professional Education (_March 2025_)								       		
-- MBA, Accouting	| University of St. Thomas (_May 2005_)
-- MIM, Finance	| University of St. Thomas (_December 2002_)
-- BSc., Actuarial Science (Minor in Physics)	| University of St. Thomas (_December 1999_) 			        		
+- MBA, Accouting	                          | University of St. Thomas (_May 2005_)
+- MIM, Finance	                            | University of St. Thomas (_December 2002_)
+- BSc., Actuarial Science (Minor in Physics)| University of St. Thomas (_December 1999_) 			        		
 
 ## Work Experience
 **Founder & Real Estate Investment Analyst @ Select Advantage Properties, LLC (_March 2012 - Present_)**
